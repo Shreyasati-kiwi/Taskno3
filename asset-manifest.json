@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Shreyasati-kiwi/Taskno3/static/css/main.f299c95f.css",
-    "main.js": "/Shreyasati-kiwi/Taskno3/static/js/main.2ed2c192.js",
+    "main.js": "/Shreyasati-kiwi/Taskno3/static/js/main.ac9ec9b7.js",
     "static/js/787.75ba5bbe.chunk.js": "/Shreyasati-kiwi/Taskno3/static/js/787.75ba5bbe.chunk.js",
     "index.html": "/Shreyasati-kiwi/Taskno3/index.html",
     "main.f299c95f.css.map": "/Shreyasati-kiwi/Taskno3/static/css/main.f299c95f.css.map",
-    "main.2ed2c192.js.map": "/Shreyasati-kiwi/Taskno3/static/js/main.2ed2c192.js.map",
+    "main.ac9ec9b7.js.map": "/Shreyasati-kiwi/Taskno3/static/js/main.ac9ec9b7.js.map",
     "787.75ba5bbe.chunk.js.map": "/Shreyasati-kiwi/Taskno3/static/js/787.75ba5bbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f299c95f.css",
-    "static/js/main.2ed2c192.js"
+    "static/js/main.ac9ec9b7.js"
   ]
 }
